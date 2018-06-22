@@ -2,7 +2,7 @@
 
 
 Udacity Front-End Nanodegree Portfolio Project
-<a href="https://github.io/Neuronator/congenial-fortnight/">Live Site</a>
+<a href="https://Neuronator.github.io/congenial-fortnight/">Live Site</a>
 
 ## Description
 a simple portfolio project based on a mockup.
